@@ -51,3 +51,6 @@ Frontend [magic](https://media.giphy.com/media/ujUdrdpX7Ok5W/giphy.gif) by:
 Sample images from [unsplash](https://unsplash.com):
 
 * https://unsplash.com/photos/PTDaKasR_p4
+
+
+https://blog.rmotr.com/machine-learning-power-extracting-dominant-colors-from-images-with-clustering-a8c6089de71b
